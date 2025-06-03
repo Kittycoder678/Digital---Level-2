@@ -1,4 +1,3 @@
-JavaScript:
 function openMenu() {
     menuBar.style.display = 'initial';
 }
@@ -7,4 +6,4 @@ function reset() {
     menuBar.style.display = 'none';
 }
 menuBox.onmouseover = openMenu;
-menuBar.onmouseleave = reset;
+menuBar.onmouseleave = reset;
